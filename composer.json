@@ -1,6 +1,6 @@
 {
     "name": "badhabit/login-management",
-    "description": "Login Management using PHP",
+    "description": "Login Management REST API with JWT using PHP",
     "type": "project",
     "authors": [
         {
