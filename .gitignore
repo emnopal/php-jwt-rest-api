@@ -1,0 +1,8 @@
+vendor
+.idea
+.env
+.phpunit.result.cache
+architecture.puml
+architecture.png
+app/Repository/whatisrepository.txt
+app/Domain/whatisdomain.txt
