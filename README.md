@@ -1,2 +1,2 @@
 # php-jwt-rest-api
-REST API Json Web Token (JWT) Auth only using PHP Native
+Login Management REST API with JSON Web Token (JWT) as Auth Method only using PHP Native
