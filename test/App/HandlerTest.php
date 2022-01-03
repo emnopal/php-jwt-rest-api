@@ -13,6 +13,7 @@ use PHPUnit\Framework\TestCase;
 class HandlerTest extends TestCase
 {
 
+
     public function testEncode()
     {
         // Set user session

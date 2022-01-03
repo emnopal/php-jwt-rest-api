@@ -16,6 +16,7 @@ use PHPUnit\Framework\TestCase;
 
 class SessionServiceTest extends TestCase
 {
+
     private SessionService $sessionService;
     private SessionRepository $sessionRepository;
     private UserRepository $userRepository;

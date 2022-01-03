@@ -16,6 +16,7 @@ use PHPUnit\Framework\TestCase;
 class MustNotLoginMiddlewareTest extends TestCase
 {
 
+
     private MustNotLoginMiddleware $mustNotLoginMiddleware;
     private UserRepository $userRepository;
     private SessionRepository $sessionRepository;

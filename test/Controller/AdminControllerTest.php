@@ -17,6 +17,7 @@ use PHPUnit\Framework\TestCase;
 class AdminControllerTest extends TestCase
 {
 
+
     private UserController $userController;
     private UserRepository $userRepository;
     private SessionRepository $sessionRepository;

@@ -8,6 +8,7 @@ use PHPUnit\Framework\TestCase;
 
 class UserRepositoryTest extends TestCase
 {
+
     private UserRepository $userRepository;
 
     protected function setUp(): void
